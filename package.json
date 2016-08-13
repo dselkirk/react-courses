@@ -1,15 +1,14 @@
 {
-  "name": "react-webpack-babel",
+  "name": "react-webpack-demo",
   "version": "0.0.2",
-  "description": "React Webpack Babel Starter Kit",
-  "main": "''",
+  "description": "React Webpack Demo
   "scripts": {
     "build": "webpack -p --config webpack.production.config.js --progress --profile --colors",
     "dev": "webpack-dev-server --progress --profile --colors"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alicoding/react-webpack-babel"
+    "url": "https://github.com/dselkirk/react-courses"
   },
   "keywords": [
     "React",
@@ -18,12 +17,9 @@
     "Starter",
     "template"
   ],
-  "author": "Ali Al Dallal",
+  "author": "Dennis Selkirk",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/alicoding/react-webpack-babel/issues"
-  },
-  "homepage": "https://github.com/alicoding/react-webpack-babel#readme",
+  "homepage": "https://github.com/dselkirk/react-courses#readme",
   "dependencies": {
     "axios": "0.13.1",
     "bootstrap": "3.3.7",
